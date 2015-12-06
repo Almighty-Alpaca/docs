@@ -16,7 +16,7 @@ Request
     {
         "avatar": "a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1",
         "email": "email@example.com",
-        "new_password": "passwerd",
+        "new_password": "password",
         "password": "password",
         "username": "Something"
     }
